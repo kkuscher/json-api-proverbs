@@ -1,0 +1,679 @@
+{
+    "proverbs": [
+    {
+        "id": 1,
+        "text": "As distance tests a horse's strength, time reveals a person's character. ",
+        "translated": "距離が馬の強さを試すように、時間は人の性格を明らかにします。"
+    },
+    {
+        "id": 2,
+        "text": "Deliberately vague and deflective. ",
+        "translated": "意図的に曖昧で偏向している."
+    },
+    {
+        "id": 3,
+        "text": "Facts beat eloquence. ",
+        "translated": "事実は雄弁に勝る。"
+    },
+    {
+        "id": 4,
+        "text": "When adversity comes, receive it favorably. ",
+        "translated": "逆境がやってくるとき、それを好意的に受け入れてください。"
+    },
+    {
+        "id": 5,
+        "text": "Repay good with good. ",
+        "translated": "善で報いる。"
+    },
+    {
+        "id": 6,
+        "text": "Good medicine tastes bitter. ",
+        "translated": "良い薬は苦い味がする。"
+    },
+    {
+        "id": 7,
+        "text": "It's better to walk thousands of miles than to read thousands of books. ",
+        "translated": "何千もの本を読むよりも、何千マイルも歩く方がましだ。"
+    },
+    {
+        "id": 8,
+        "text": "While some are happy, some are anxious. ",
+        "translated": "幸せな人もいる一方で、不安な人もいます。"
+    },
+    {
+        "id": 9,
+        "text": "A team of horses will struggle to chase down a spoken word. ",
+        "translated": "馬のチームは、話し言葉を追いかけるのに苦労します。"
+    },
+    {
+        "id": 10,
+        "text": "Enduring deepening pain is how man ascends. ",
+        "translated": "深い痛みに耐えることは、人間が上昇する方法です。"
+    },
+    {
+        "id": 11,
+        "text": "The player is lost; the watcher is lucid. ",
+        "translated": "プレーヤーは迷子です。ウォッチャーは明晰です。"
+    },
+    {
+        "id": 12,
+        "text": "Ten years to cultivate wood, a hundred years to cultivate a man. ",
+        "translated": "木を育てるのに10年、男を育てるのに100年。"
+    },
+    {
+        "id": 13,
+        "text": "When a mute eats dumplings, he knows how many he has eaten. ",
+        "translated": "ミュートが餃子を食べるとき、彼は自分が何個食べたかを知っています。"
+    },
+    {
+        "id": 14,
+        "text": "Peace replaces extreme evil. ",
+        "translated": "平和は極端な悪に取って代わる。"
+    },
+    {
+        "id": 15,
+        "text": "A bird in the hand is worth two in the bush. ",
+        "translated": "手の中の鳥は、茂みの中の二羽の価値がある。"
+    },
+    {
+        "id": 16,
+        "text": "Ignorance is bliss. ",
+        "translated": "無知は至福です。"
+    },
+    {
+        "id": 17,
+        "text": "If you don't run the family, you don't know the value of fuel and rice. ",
+        "translated": "家族を経営しなければ、燃料と米の価値がわかりません。"
+    },
+    {
+        "id": 18,
+        "text": "Small as it is, the sparrow has all the vital organs. ",
+        "translated": "スズメは小さいですが、すべての重要な臓器を持っています。"
+    },
+    {
+        "id": 19,
+        "text": "A happy occasion gladdens the spirit. ",
+        "translated": "幸せな機会は精神を喜ばせる。"
+    },
+    {
+        "id": 20,
+        "text": "Two benefits from one action. ",
+        "translated": "1つのアクションから2つのメリット。"
+    },
+    {
+        "id": 21,
+        "text": "It just needs hard work to grind an iron rod into a needle. ",
+        "translated": "鉄棒を針に磨くには大変な作業が必要です。"
+    },
+    {
+        "id": 22,
+        "text": "An old warhorse in the stable still longs to gallop a thousand miles. ",
+        "translated": "厩舎の古い軍馬はまだ千マイルを疾走することを切望しています。"
+    },
+    {
+        "id": 23,
+        "text": "Wind isn't always favorable; soldiers aren't always victorious. ",
+        "translated": "風が常に有利であるとは限らない。兵士が常に勝利するとは限らない。"
+    },
+    {
+        "id": 24,
+        "text": "When children travel far, mothers worry. ",
+        "translated": "子供たちが遠くに旅行するとき、母親は心配します。"
+    },
+    {
+        "id": 25,
+        "text": "Flowers may bloom again; you're never young again. ",
+        "translated": "花は再び咲くかもしれません。あなたは二度と若くはありません。"
+    },
+    {
+        "id": 26,
+        "text": "Dragons soaring and tigers leaping. ",
+        "translated": "ドラゴンが舞い上がり、虎が飛び跳ねる。"
+    },
+    {
+        "id": 27,
+        "text": "Lord Ye loves dragons. ",
+        "translated": "イェ卿はドラゴンが大好きです。"
+    },
+    {
+        "id": 28,
+        "text": "A body acts according to physical strength. ",
+        "translated": "体は体力に応じて行動します。"
+    },
+    {
+        "id": 29,
+        "text": "Love the house and its crow. ",
+        "translated": "家とそのカラスが大好きです。"
+    },
+    {
+        "id": 30,
+        "text": "All things are difficult at the start. ",
+        "translated": "最初はすべてが難しい。"
+    },
+    {
+        "id": 31,
+        "text": "A day's planning is done at dawn. ",
+        "translated": "一日の計画は夜明けに行われる。"
+    },
+    {
+        "id": 32,
+        "text": "Watch till clouds part to see the moonlight. ",
+        "translated": "月明かりを見るために雲が分かるまで見てください。"
+    },
+    {
+        "id": 33,
+        "text": "Men of different principles don't work well together. ",
+        "translated": "異なる原則の男性はうまく連携しません。"
+    },
+    {
+        "id": 34,
+        "text": "Radishes and greens, each has those who love them. ",
+        "translated": "大根と野菜、それぞれに愛する人がいます。"
+    },
+    {
+        "id": 35,
+        "text": "Replace weapons with jade and silk. ",
+        "translated": "武器を翡翠と絹に置き換えてください。"
+    },
+    {
+        "id": 36,
+        "text": "This ground doesn't have 300 taels of silver. ",
+        "translated": "この地面には300テールの銀はありません。"
+    },
+    {
+        "id": 37,
+        "text": "People in love become spouses in the end. ",
+        "translated": "恋する人は結局配偶者になる。"
+    },
+    {
+        "id": 38,
+        "text": "Green is from blue, and better than blue. ",
+        "translated": "緑は青から来ており、青よりも優れています。"
+    },
+    {
+        "id": 39,
+        "text": "Keep the general goal in sight while tackling daily tasks. ",
+        "translated": "毎日のタスクに取り組む間、一般的な目標を視野に入れておく。"
+    },
+    {
+        "id": 40,
+        "text": "A gentleman's friendship is insipid as water. ",
+        "translated": "紳士の友情は水のように味乾燥しません。"
+    },
+    {
+        "id": 41,
+        "text": "Family shames must not be spread abroad. ",
+        "translated": "家族の恥を海外に広めてはならない。"
+    },
+    {
+        "id": 42,
+        "text": "Reading requires concentration; a word may be worth a fortune. ",
+        "translated": "読書には集中力が必要です。単語は大金の価値があるかもしれません。"
+    },
+    {
+        "id": 43,
+        "text": "The dragonflies and the phoenix dances. ",
+        "translated": "トンボと不死鳥の踊り。"
+    },
+    {
+        "id": 44,
+        "text": "Love at first sight. ",
+        "translated": "一目惚れ。"
+    },
+    {
+        "id": 45,
+        "text": "Starlight shines far. ",
+        "translated": "星の光は遠くに輝いている。"
+    },
+    {
+        "id": 46,
+        "text": "Every step makes a footprint. ",
+        "translated": "すべてのステップが足跡を作ります。"
+    },
+    {
+        "id": 47,
+        "text": "You reap what you sow. ",
+        "translated": "蒔いたものを刈り取る。"
+    },
+    {
+        "id": 48,
+        "text": "A dragon's and a horse's spirit. ",
+        "translated": "ドラゴンと馬の精神。"
+    },
+    {
+        "id": 49,
+        "text": "A dragon's pool and a tiger's den. ",
+        "translated": "ドラゴンのプールと虎の巣。"
+    },
+    {
+        "id": 50,
+        "text": "Guilin's scenery's best on earth. ",
+        "translated": "桂林の風景は地球上で最高です。"
+    },
+    {
+        "id": 51,
+        "text": "You can't get fat with one mouthful. ",
+        "translated": "一口で太ることはできない。"
+    },
+    {
+        "id": 52,
+        "text": "An aggrieved army is sure to win. ",
+        "translated": "被害を受けた軍隊は必ず勝つ。"
+    },
+    {
+        "id": 53,
+        "text": "A bad beginning makes a bad ending. ",
+        "translated": "悪い始まりは悪い終わりを作る。"
+    },
+    {
+        "id": 54,
+        "text": "Each has his own task, and nobody is dispensable. ",
+        "translated": "それぞれに自分の仕事があり、誰も不要ではありません。"
+    },
+    {
+        "id": 55,
+        "text": "No man is a perfect man; no gold is sufficiently bare. ",
+        "translated": "完璧な人はいません。金は十分に裸ではありません。"
+    },
+    {
+        "id": 56,
+        "text": "Those who just want speed don't succeed. ",
+        "translated": "スピードだけを欲しがる人は成功しない。"
+    },
+    {
+        "id": 57,
+        "text": "The harvest moon is brightest; every festival's homesickness multiplies. ",
+        "translated": "収穫の月は最も明るいです。すべての祭りのホームシックは倍増します。"
+    },
+    {
+        "id": 58,
+        "text": "Live till you're old, and study till you're old. ",
+        "translated": "年をとるまで生き、年をとるまで勉強する。"
+    },
+    {
+        "id": 59,
+        "text": "Food is the first priority of the people. ",
+        "translated": "食べ物は人々の最優先事項です。"
+    },
+    {
+        "id": 60,
+        "text": "Birds flying in the sky as one; branches growing on the earth as one. ",
+        "translated": "鳥は一体として空を飛び、枝は一体として地上で育つ。"
+    },
+    {
+        "id": 61,
+        "text": "Adversity yields flair. ",
+        "translated": "逆境は才能を生み出す。"
+    },
+    {
+        "id": 62,
+        "text": "If you don't do stupid things you won't end up in tragedy. ",
+        "translated": "愚かなことをしなければ、悲劇に終わることはありません。"
+    },
+    {
+        "id": 63,
+        "text": "A prime minister's mind should be broad enough for polling a boat. ",
+        "translated": "首相の心は、ボートを投票するのに十分なほど広いはずです。"
+    },
+    {
+        "id": 64,
+        "text": "To know a fish go to the water; to know a bird's song go to the mountains. ",
+        "translated": "魚を知るには水に行く。鳥の歌を知るには山に行く。"
+    },
+    {
+        "id": 65,
+        "text": "Every family has its problems. ",
+        "translated": "どの家庭にも問題があります。"
+    },
+    {
+        "id": 66,
+        "text": "Gold and silver nests can't beat one's family kennel. ",
+        "translated": "金と銀の巣は家族の犬小屋に勝てない。"
+    },
+    {
+        "id": 67,
+        "text": "When people work with one heart, they can even move Mount Tai. ",
+        "translated": "人々が心を一つにして働くとき、彼らはタイ山を動かすことさえできます。"
+    },
+    {
+        "id": 68,
+        "text": "Failure is the mother of success. ",
+        "translated": "失敗は成功の母である。"
+    },
+    {
+        "id": 69,
+        "text": "Timely return of a loan makes it easier to borrow a second time. ",
+        "translated": "ローンをタイムリーに返済することで、2回目の借り入れが容易になります。"
+    },
+    {
+        "id": 70,
+        "text": "When using books, you'll regret reading few. ",
+        "translated": "本を使うとき、あなたは少し読んだことを後悔するでしょう。"
+    },
+    {
+        "id": 71,
+        "text": "Everything's ready except the east wind. ",
+        "translated": "東風以外はすべて準備が整いました。"
+    },
+    {
+        "id": 72,
+        "text": "The quick-footed climb first. ",
+        "translated": "足の速い登りが最初です。"
+    },
+    {
+        "id": 73,
+        "text": "In a lover's eye is the foremost Beauty. ",
+        "translated": "恋人の目には最も重要な美しさがあります。"
+    },
+    {
+        "id": 74,
+        "text": "Suffer a moat, grow in wisdom. ",
+        "translated": "堀に苦しみ、知恵を育む。"
+    },
+    {
+        "id": 75,
+        "text": "Listening to a lord's remarks is better than reading books for ten years. ",
+        "translated": "領主の発言を聞くことは、10年間本を読むよりましだ。"
+    },
+    {
+        "id": 76,
+        "text": "In hardship, we see true friendship. ",
+        "translated": "苦難の中で、私たちは真の友情を見ます。"
+    },
+    {
+        "id": 77,
+        "text": "Numerous friends means no deep friendship. ",
+        "translated": "たくさんの友達は、深い友情がないことを意味します。"
+    },
+    {
+        "id": 78,
+        "text": "Even a dragon struggles to control a snake in its native haunt. ",
+        "translated": "ドラゴンでさえ、その故郷の幽霊の中でヘビをコントロールするのに苦労します。"
+    },
+    {
+        "id": 79,
+        "text": "Hold hands with you, grow old with you. ",
+        "translated": "あなたと手をつないで、あなたと一緒に年をとる。"
+    },
+    {
+        "id": 80,
+        "text": "Without standards, no boundaries are set. ",
+        "translated": "基準がなければ、境界は設定されません。"
+    },
+    {
+        "id": 81,
+        "text": "Think thrice before you act. ",
+        "translated": "行動する前に三度考えてください。"
+    },
+    {
+        "id": 82,
+        "text": "A person leaves a reputation, as a swallow leaves its call. ",
+        "translated": "ツバメが呼び声を残すように、人は評判を残す。"
+    },
+    {
+        "id": 83,
+        "text": "Great wisdom can seem foolish. ",
+        "translated": "偉大な知恵は愚かに思えるかもしれません。"
+    },
+    {
+        "id": 84,
+        "text": "Long for a heart, never be apart. ",
+        "translated": "心を切望し、決して離れない。"
+    },
+    {
+        "id": 85,
+        "text": "Love isn't about having, it's about enjoying (what you have). ",
+        "translated": "愛は持っていることではなく、（あなたが持っているもの）を楽しむことです。"
+    },
+    {
+        "id": 86,
+        "text": "A candle lights others and consumes itself. ",
+        "translated": "ろうそくは他人を照らし、それ自体を消費する。"
+    },
+    {
+        "id": 87,
+        "text": "When entering a locality follow the local customs. ",
+        "translated": "地域に入るときは、現地の習慣に従ってください。"
+    },
+    {
+        "id": 88,
+        "text": "An intimate friend is hard to find. ",
+        "translated": "親しい友人を見つけるのは難しい。"
+    },
+    {
+        "id": 89,
+        "text": "An inch of time is worth an inch of gold, but an inch of gold may not buy an inch of time. ",
+        "translated": "1インチの時間は1インチの金に値するが、1インチの金は1インチの時間を買うことはできないかもしれない。"
+    },
+    {
+        "id": 90,
+        "text": "Strict teachers produce fine students. ",
+        "translated": "厳格な教師は優秀な生徒を輩出する。"
+    },
+    {
+        "id": 91,
+        "text": "A smile dispels many worries. ",
+        "translated": "笑顔は多くの心配を払拭する。"
+    },
+    {
+        "id": 92,
+        "text": "Man cannot be judged by looks; seas cannot be measured by the cup. ",
+        "translated": "人間は外見で判断できない。海は杯で測れない。"
+    },
+    {
+        "id": 93,
+        "text": "Wishing us long life, though sharing moonlight from afar. ",
+        "translated": "遠くから月明かりを分かち合うが、長生きを願っている。"
+    },
+    {
+        "id": 94,
+        "text": "If small holes aren't fixed, then big holes will bring hardship. ",
+        "translated": "小さな穴が直らないと、大きな穴が困難をもたらします。"
+    },
+    {
+        "id": 95,
+        "text": "Happiness is the best cosmetic. ",
+        "translated": "幸せは最高の化粧品です。"
+    },
+    {
+        "id": 96,
+        "text": "While there are green hills, there'll be wood to burn. ",
+        "translated": "緑の丘がある間、燃やす木があるでしょう。"
+    },
+    {
+        "id": 97,
+        "text": "It is easy to find a thousand soldiers, but hard to find a good general. ",
+        "translated": "千人の兵士を見つけるのは簡単ですが、良い将軍を見つけるのは難しいです。"
+    },
+    {
+        "id": 98,
+        "text": "Water drops pierce stone; rope saws cut wood. ",
+        "translated": "水滴が石を突き刺す。ロープソーが木を切る。"
+    },
+    {
+        "id": 99,
+        "text": "One who stands straight doesn't fear a crooked shadow. ",
+        "translated": "まっすぐ立っている人は、曲がった影を恐れない。"
+    },
+    {
+        "id": 100,
+        "text": "Fate brings people together from far apart. ",
+        "translated": "運命は遠く離れた人々を結びつける。"
+    },
+    {
+        "id": 101,
+        "text": "Even an upright official finds it hard to settle a family quarrel. ",
+        "translated": "正直な役人でさえ、家族の争いを解決するのは難しいと感じています。"
+    },
+    {
+        "id": 102,
+        "text": "A book is a pocket garden. ",
+        "translated": "本はポケットガーデンです。"
+    },
+    {
+        "id": 103,
+        "text": "A good memory can't beat a bad pen. ",
+        "translated": "良い記憶力は悪いペンに勝てない。"
+    },
+    {
+        "id": 104,
+        "text": "A carp has jumped the dragon's gate. ",
+        "translated": "鯉が竜の門を飛び越えた。"
+    },
+    {
+        "id": 105,
+        "text": "Soldiers don't hate deceit. ",
+        "translated": "兵士は欺瞞を嫌わない。"
+    },
+    {
+        "id": 106,
+        "text": "Don't miss opportunities: time doesn't come round again. ",
+        "translated": "機会を逃さないでください：時間は二度と来ません。"
+    },
+    {
+        "id": 107,
+        "text": "It's better to walk thousands of miles than to read thousands of books. ",
+        "translated": "何千もの本を読むよりも、何千マイルも歩く方がましだ。"
+    },
+    {
+        "id": 108,
+        "text": "Disaster comes from the careless talk. ",
+        "translated": "不注意な話から災難がやってくる。"
+    },
+    {
+        "id": 109,
+        "text": "If people are of one heart, even loess can become gold. ",
+        "translated": "人が心を一つにすれば、黄黄でさえ金になることができる。"
+    },
+    {
+        "id": 110,
+        "text": "If a family is harmonious everything will go well. ",
+        "translated": "家族が調和していれば、すべてがうまくいくでしょう。"
+    },
+    {
+        "id": 111,
+        "text": "Where there's a father, there's his son. ",
+        "translated": "父親がいるところには息子がいる。"
+    },
+    {
+        "id": 112,
+        "text": "A good book is like a good friend. ",
+        "translated": "良い本は良い友達のようなものです。"
+    },
+    {
+        "id": 113,
+        "text": "With truth on your side, you can go anywhere; without truth, you can't take a tiny step. ",
+        "translated": "真実があれば、どこへでも行けます。真実がなければ、小さな一歩も踏み出すことはできません。"
+    },
+    {
+        "id": 114,
+        "text": "The timber's already a boat; the rice is cooked. ",
+        "translated": "木材はすでにボートです。米は炊きました。"
+    },
+    {
+        "id": 115,
+        "text": "It takes more than one cold day for a river to freeze a meter deep. ",
+        "translated": "川が1メートルの深さで凍りつくには、寒い日が1日以上かかります。"
+    },
+    {
+        "id": 116,
+        "text": "A thousand-mile journey starts with a footfall. ",
+        "translated": "千マイルの旅は足取りから始まる。"
+    },
+    {
+        "id": 117,
+        "text": "A thousand-mile journey starts with a footfall. ",
+        "translated": "千マイルの旅は足取りから始まる。"
+    },
+    {
+        "id": 118,
+        "text": "The first to arrive is the first to succeed. ",
+        "translated": "最初に到着した人は最初に成功する。"
+    },
+    {
+        "id": 119,
+        "text": "The first to arrive is the first to succeed. ",
+        "translated": "最初に到着した人は最初に成功する。"
+    },
+    {
+        "id": 120,
+        "text": "Water flows in only to flow out. ",
+        "translated": "水は流入して流出するだけです。"
+    },
+    {
+        "id": 121,
+        "text": "Water flows in only to flow out. ",
+        "translated": "水は流入して流出するだけです。"
+    },
+    {
+        "id": 122,
+        "text": "A muddled mix of fish and dragons. ",
+        "translated": "魚とドラゴンの混乱したミックス。"
+    },
+    {
+        "id": 123,
+        "text": "A muddled mix of fish and dragons. ",
+        "translated": "魚とドラゴンの混乱したミックス。"
+    },
+    {
+        "id": 124,
+        "text": "Paint a dragon and dot the eye. ",
+        "translated": "ドラゴンを描き、目を点します。"
+    },
+    {
+        "id": 125,
+        "text": "Paint a dragon and dot the eye. ",
+        "translated": "ドラゴンを描き、目を点します。"
+    },
+    {
+        "id": 126,
+        "text": "Punishing those who come before stops those who come after from doing something. ",
+        "translated": "先に来る人を罰すると、後に来る人が何かをするのを止めます。"
+    },
+    {
+        "id": 127,
+        "text": "Punishing those who come before stops those who come after from doing something. ",
+        "translated": "先に来る人を罰すると、後に来る人が何かをするのを止めます。"
+    },
+    {
+        "id": 128,
+        "text": "With love water is enough; without love, food doesn't satisfy. ",
+        "translated": "愛があれば水で十分です。愛がなければ、食べ物は満足できません。"
+    },
+    {
+        "id": 129,
+        "text": "With love water is enough; without love, food doesn't satisfy. ",
+        "translated": "愛があれば水で十分です。愛がなければ、食べ物は満足できません。"
+    },
+    {
+        "id": 130,
+        "text": "Blessings come in disguise ",
+        "translated": "祝福は偽装してやってくる"
+    },
+    {
+        "id": 131,
+        "text": "Too many cooks spoil the broth. ",
+        "translated": "料理人が多すぎるとスープが腐ってしまう。"
+    },
+    {
+        "id": 132,
+        "text": "A good name is better than a good face. ",
+        "translated": "良い名前は良い顔よりも優れています。"
+    },
+    {
+        "id": 133,
+        "text": "Learning without thought is deceptive; thought without learning is perilous. ",
+        "translated": "思考のない学習は欺瞞的であり、学習のない思考は危険です。"
+    },
+    {
+        "id": 134,
+        "text": "Carriages like a stream and horses like a dragon. ",
+        "translated": "小川のような馬車とドラゴンのような馬。"
+    },
+    {
+        "id": 135,
+        "text": "Water flows in only to flow out. ",
+        "translated": "水は流入して流出するだけです。"
+    }
+    ]
+}
